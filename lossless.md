@@ -1,4 +1,6 @@
 **Lossless Compression**
+
+
 Lossless compression is used where it is important that the original data and the compressed data to be identical. One of the big drawbacks to lossless compression is that for every file the algorithm makes smaller, it will make another file larger.
 
 
