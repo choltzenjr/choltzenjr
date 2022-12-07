@@ -14,3 +14,6 @@ The link above will take you to another markdown page that gives more informatio
 Lossless compression allows the original data to be perfectly reconstructed from the compressed data with no loss of information. Lossless compression is used in many applications such as: ZIP files, MP3 audio files, and GIF’s. 
 
 
+https://github.com/choltzenjr/choltzenjr/blob/main/lossless.md
+
+The link above will take you to another markdown page that gives more information about lossless compression.
